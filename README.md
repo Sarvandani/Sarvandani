@@ -20,11 +20,6 @@
 
 
 
-https://img.shields.io/badge/badge%20can%20be-anything%20you%20want-orange?style=flat-square&logo=github&logoColor=white
-
-
-
-
 
 
  Hello!
