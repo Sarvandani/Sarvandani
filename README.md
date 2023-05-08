@@ -25,7 +25,7 @@
 <a href="https://www.researchgate.net/profile/Mohamadhasan-Sarvandani">
   <img
     alt="Pinterest"
-    src="	https://img.shields.io/badge/Pinterest-%23E60023?&style=for-the-badge&logo=pinterest&logoColor=white"
+    src="	https://img.shields.io/badge/Pinterest-23E60023?&style=for-the-badge&logo=pinterest&logoColor=white"
   />
 </a>
 
