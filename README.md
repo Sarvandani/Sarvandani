@@ -7,6 +7,6 @@ I am a data scientist-geophysicist with a great passion for innovative ideas and
 
 Autonomy, curiosity, creativity, and ambition are my driving forces and I am always open to taking up new challenges. 
 
-[![Linkedin](https://badgen.net/badge/icon/linkedin?icon=linkedin)(https://www.linkedin.com/in/mohamadhasan-sarvandani/)]
+![Linkedin](https://badgen.net/badge/icon/linkedin?icon=linkedin) [(https://www.linkedin.com/in/mohamadhasan-sarvandani/)]
 
 
