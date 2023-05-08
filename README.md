@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/@MohamadhasanSarvandani/featured">
   <img
     alt="YouTube"
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black"
   />
 </a>
 
