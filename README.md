@@ -7,3 +7,6 @@ I am a data scientist-geophysicist with a great passion for innovative ideas and
 
 Autonomy, curiosity, creativity, and ambition are my driving forces and I am always open to taking up new challenges. 
 
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+
+
