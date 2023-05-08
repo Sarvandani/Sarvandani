@@ -5,12 +5,7 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=black&style=for-the-badge"
-  />
-</a>
+
 
 <a href="https://scholar.google.com/citations?user=6FDuIJMAAAAJ&hl=en">
   <img
