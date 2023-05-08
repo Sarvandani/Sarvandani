@@ -15,7 +15,7 @@
 <a href="https://scholar.google.com/citations?user=6FDuIJMAAAAJ&hl=en">
   <img
     alt="scholar"
-    src="https://img.shields.io/badge/Google Scholar-0075B5?logo=googlescholar&logoColor=black&style=for-the-badge"
+    src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"
   />
 </a>
 
