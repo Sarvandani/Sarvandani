@@ -25,9 +25,10 @@
 <a href="https://www.pinterest.com/Mohamadhasan_Sarvandani/">
   <img
     alt="Pinterest"
-    src="	https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"
+    src="	https://img.shields.io/badge/Pinterest-%23E60023?&style=for-the-badge&logo=Pinterest&logoColor=white"
   />
 </a>
+
 
 
 <img src="https://img.shields.io/badge/new-HexColor?logo=SimpleIconName&logoColor=red&style=for-the-badge" />
