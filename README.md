@@ -17,7 +17,7 @@
 <a href="https://www.researchgate.net/profile/Mohamadhasan-Sarvandani">
   <img
     alt="Researchgate"
-    src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=researchgate&logoColor=white"
+    src="https://img.shields.io/badge/Researchgate-4285F4?style=for-the-badge&logo=researchgate&logoColor=white"
   />
 </a>
 
