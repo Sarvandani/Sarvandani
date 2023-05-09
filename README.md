@@ -37,6 +37,7 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,gcp&theme=light)](https://skillicons.dev)
 
 
 
