@@ -1,11 +1,3 @@
-name: Followers
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.people.followers.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_people: yes
-  plugin_people_types: followers
   
 <div align="center">
 
