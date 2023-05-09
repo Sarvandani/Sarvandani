@@ -1,4 +1,4 @@
-  <img src="vecteezy_artificial-intelligence-server_22819858_636.jpeg">
+  <img src="AI.jpeg">
 
 <div align="center">
 
