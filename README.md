@@ -35,7 +35,6 @@
 </a>
 
 
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://github.com/Sarvandani)
 
 
 
