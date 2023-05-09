@@ -1,7 +1,7 @@
   
   <div align="center">
   
-  <img src="AI.jpeg" width="600" height="400">
+  <img src="AI.jpeg" width="400" height="200">
   
   </div>
  
