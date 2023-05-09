@@ -68,7 +68,7 @@ I am a data scientist-geophysicist with a great passion for innovative ideas and
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=blue-green)](https://github.com/Sarvandani)
  
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvandani&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvandani&theme=blue-green)](https://github.com/Sarvandani)
 
 
 </div>
