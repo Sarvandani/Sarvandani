@@ -35,7 +35,7 @@
 </a>
 
 
-https://badgen.net//github/commits/micromatch/micromatch/Commits
+https://badgen.net//github/commits/micromatch/micromatch
 
 
 
