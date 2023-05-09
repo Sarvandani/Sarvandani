@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/Sarvandani)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=blue-green)](https://github.com/Sarvandani)
 
 <div align="center">
 
