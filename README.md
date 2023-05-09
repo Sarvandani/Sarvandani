@@ -34,8 +34,8 @@
   />
 </a>
 
+[![daily downloads](https://badgen.net/npm/dm/express)](https://stock.adobe.com/ie/photos)
 
-https://badgen.net//github/commits/micromatch/micromatch
 
 
 
