@@ -57,8 +57,6 @@ My name is Mohamadhasan Sarvandani.
 I am a data scientist-geophysicist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
 
-  [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,r&theme=dark)](https://skillicons.dev)
-
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,r&theme=dark)](https://skillicons.dev)
