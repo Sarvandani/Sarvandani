@@ -1,4 +1,4 @@
-  <img src="AI.jpeg">
+  <img src="AI.jpeg" width="800" height="600">
 
 <div align="center">
 
