@@ -37,7 +37,6 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,gcp&theme=light)](https://skillicons.dev)
 
 
 
@@ -58,6 +57,7 @@ My name is Mohamadhasan Sarvandani.
 I am a data scientist-geophysicist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,gcp&theme=light)](https://skillicons.dev)
 
 
 
