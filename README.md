@@ -1,7 +1,8 @@
-  <img src="AI.jpeg" width="600" height="400">
-
+  
 <div align="center">
-
+  
+<img src="AI.jpeg" width="600" height="400">
+  
  <a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
   <img
     alt="Linkedin"
