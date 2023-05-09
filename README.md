@@ -34,7 +34,7 @@
   />
 </a>
 
-[![daily downloads](https://badgen.net/npm/dm/express)](https://stock.adobe.com/ie/photos)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 
 
