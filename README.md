@@ -45,7 +45,7 @@
   <a href="https://twitter.com/MoSarvandani">
   <img
     alt="twitter"
-    src="https://img.shields.io/badge/twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=black"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   />
 </a>
   
