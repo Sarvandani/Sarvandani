@@ -1,4 +1,5 @@
-  
+  ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
+
   <div align="center">
   
   <img src="AI.jpeg" width="600" height="300">
@@ -87,6 +88,5 @@ I am a data scientist-gescientist with a great passion for innovative ideas and 
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
 
 
