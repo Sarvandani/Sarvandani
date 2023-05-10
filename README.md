@@ -81,6 +81,7 @@ I am a data scientist-gescientist with a great passion for innovative ideas and 
 [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,emacs,r&theme=dark)](https://skillicons.dev)
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=blue-green)](https://github.com/Sarvandani)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
 
