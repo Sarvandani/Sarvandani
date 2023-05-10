@@ -73,7 +73,7 @@
 
 My name is Mohamadhasan Sarvandani.
 
-I am a data scientist-geophysicist with a great passion for innovative ideas and multi-disciplinary solutions.  
+I am a data scientist-gescientist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
 
 <div align="center">
