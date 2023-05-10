@@ -82,11 +82,11 @@ I am a data scientist-gescientist with a great passion for innovative ideas and 
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=blue-green)](https://github.com/Sarvandani)
 
+![](https://komarev.com/ghpvc/?username=Sarvandani)
 
 
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=Sarvandani)
 
 
