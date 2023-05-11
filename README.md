@@ -93,7 +93,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   <a href="mohamadian.sarvandani@gmail.com">
     <img 
          alt="Gmail"
-         src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" style="vertical-align:top margin:6px 4px"
+         src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg"
 />
 </a>
   
