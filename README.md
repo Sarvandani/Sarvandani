@@ -89,6 +89,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
  ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
   
+  ![](https://img.shields.io/badge/day%20📅-22-blue)	
   
   <a href="mohamadian.sarvandani@gmail.com">
     <img 
