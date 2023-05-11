@@ -88,6 +88,12 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
  ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
+  
+  
+  <a href="mohamadian.sarvandani@gmail.com">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+ 
 
 </div>
 
