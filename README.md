@@ -56,8 +56,16 @@
   />
 </a>
   
+  <a href=" https://www.kaggle.com/sarvandani">
+  <img
+    alt="Kaggle"
+    src="	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+  />
+</a>
+  
 </div>
  
+
 
 
 
