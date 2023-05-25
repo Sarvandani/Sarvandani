@@ -108,7 +108,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
  ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge)
   
   
-  <a href="mohamadian.sarvandani@gmail.com">
+  <a href="mailto:mohamadian.sarvandani@gmail.com">
     <img 
          alt="Gmail"
          src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" 
