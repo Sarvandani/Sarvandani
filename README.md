@@ -96,8 +96,8 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,emacs,r&theme=dark)](https://skillicons.dev)
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)]
+[![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/Sarvandani)
+
 
   
   
