@@ -97,7 +97,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
 
 [![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/Sarvandani)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true)
 
 
   
