@@ -121,6 +121,6 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 </div>
 
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg' width="100" height="100">  
+<img src='https://commons.wikimedia.org/wiki/File:Spyder_logo.svg' width="100" height="100">  
 
 
