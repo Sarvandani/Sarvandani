@@ -96,7 +96,6 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <div align="center">
   
 Languages: 
-
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=dark)](https://skillicons.dev)
 
 Skills:
