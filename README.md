@@ -124,8 +124,8 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
 Editors:  
 
-<img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="80" height="80">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="80" height="80">  
+<img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="50" height="50">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
 
 </div>
  
