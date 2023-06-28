@@ -96,11 +96,21 @@ Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=dark)](https://skillicons.dev)
  
+
+
 Editors:  
 
 <img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="50" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="50" height="50">  
+
+OS:
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="50" height="50">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg' width="50" height="50">  
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+
+
 
 </div>
 
