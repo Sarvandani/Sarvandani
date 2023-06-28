@@ -94,7 +94,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,emacs,r&theme=dark)](https://skillicons.dev)
-  
+
 
 [![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/Sarvandani)
 
@@ -121,5 +121,6 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 </div>
 
 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>  
 
 
