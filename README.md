@@ -98,9 +98,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=dark)](https://skillicons.dev)
- 
 Skills:
-
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' width="50" height="50"> 
