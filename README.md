@@ -120,8 +120,13 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
 </div>
 
-<a 
+ <div align="center">
+  
 <img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="80" height="80">  
+  
+  </div>
+ 
+<a 
 
 </a>
 
