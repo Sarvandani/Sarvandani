@@ -121,6 +121,6 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 </div>
 
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>  
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' width="600" height="300">  
 
 
