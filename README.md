@@ -107,16 +107,15 @@ Editors:
 OS:
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg' width="50" height="50">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg' width="50" height="50"> 
+
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-
-
 
 </div>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,linux,emacs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,emacs&theme=dark)](https://skillicons.dev)
 
 
 
