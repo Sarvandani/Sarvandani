@@ -118,6 +118,16 @@ OS:
 
 Skills:
 
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width="50" height="50"> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' width="50" height="50"> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' width="50" height="50"> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="50" height="50"> 
+
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,emacs&theme=dark)](https://skillicons.dev)
 
 
