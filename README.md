@@ -108,8 +108,7 @@ OS:
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="50" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg' width="50" height="50"> 
-
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' width="50" height="50"> 
 
 </div>
 
