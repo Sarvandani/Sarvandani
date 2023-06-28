@@ -112,7 +112,11 @@ OS:
 
 </div>
 
+
+
 <div align="center">
+
+Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,emacs&theme=dark)](https://skillicons.dev)
 
