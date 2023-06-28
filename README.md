@@ -90,6 +90,18 @@ My name is Mohamadhasan Sarvandani.
 
 I am a data scientist-geoscientist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
+<div align="center">
+  
+Languages: 
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,r,r&theme=dark)](https://skillicons.dev)
+ 
+Editors:  
+
+<img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="50" height="50">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="50" height="50">  
+
+</div>
 
 <div align="center">
 
@@ -120,15 +132,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
 </div>
 
-<div align="center">
-  
-Editors:  
 
-<img src='https://github.com/Sarvandani/files/blob/main/icons8-spyder-ide.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="50" height="50">  
-
-</div>
  
 
 
