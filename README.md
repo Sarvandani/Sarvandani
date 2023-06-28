@@ -96,19 +96,23 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <div align="center">
   
 Languages: 
+
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=dark)](https://skillicons.dev)
 
 Skills:
+
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="100" height="50"> 
+
 IDE:
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg' width="90" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="60" height="60">  
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="60" height="60">
+
 OS:
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="50" height="50">  
