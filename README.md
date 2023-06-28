@@ -93,7 +93,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <div align="center">
   
 Languages: 
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,r,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=dark)](https://skillicons.dev)
  
 Editors:  
 
@@ -105,7 +105,7 @@ Editors:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,py,matlab,linux,emacs,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,tensorflow,gcp,mysql,linux,emacs&theme=dark)](https://skillicons.dev)
 
 
 [![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical)](https://github.com/Sarvandani)
