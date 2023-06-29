@@ -183,13 +183,13 @@ My name is Mohamadhasan Sarvandani.
 </div>
 
 
-**IDE:**
+|**IDE:**
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60"> | **IDE:**
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">|
 
 
 
