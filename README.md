@@ -93,13 +93,16 @@ My name is Mohamadhasan Sarvandani.
 
 I am a data scientist-geoscientist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
-<div align="center">
+<div align="left">
   
 Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=light)](https://skillicons.dev)
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/sql-language.svg' width="50" height="50"> 
 
+</div>
+
+<div align="right">
 
 Skills:
 
@@ -111,6 +114,9 @@ Skills:
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Keras.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="100" height="50"> 
+
+</div>
+
 
 Data visualization:
 
