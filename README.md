@@ -110,7 +110,7 @@ Skills:
 Data visualization:
 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Matplotlib_icon.svg' width="50" height="50"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Plotly-logo.png' width="50" height="50"> 
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Plotly-logo.png' width="80" height="50"> 
 
 
 
