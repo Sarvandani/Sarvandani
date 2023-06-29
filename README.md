@@ -93,7 +93,7 @@ My name is Mohamadhasan Sarvandani.
 
 I am a data scientist-geoscientist with a great passion for innovative ideas and multi-disciplinary solutions.  
 
-<div align="left">
+<div align="center">
   
 Languages: 
 
@@ -102,7 +102,7 @@ Languages:
 
 </div>
 
-<div align="right">
+<div align="center">
 
 Skills:
 
@@ -116,6 +116,8 @@ Skills:
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="100" height="50"> 
 
 </div>
+
+<div align="center">
 
 
 Data visualization:
