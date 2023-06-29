@@ -124,8 +124,8 @@ Data visualization:
 IDE:
 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="60" height="60">
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
 
 OS:
 
