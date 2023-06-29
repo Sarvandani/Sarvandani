@@ -103,7 +103,7 @@ Languages:
 
 Skills:
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width="50" height="50"> 
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg' width="50" height="50"> 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/XGBoost_logo.png' width="100" height="50"> 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/LightGBM.svg' width="100" height="50"> 
 
@@ -123,7 +123,7 @@ Data visualization:
 
 IDE:
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg' width="90" height="50">  
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' width="50" height="50">  
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg' width="60" height="60">
 
