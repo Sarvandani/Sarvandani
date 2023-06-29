@@ -185,13 +185,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 
 
 
-┌──────────┬────────────────────┐
-│  Custom  │      Borders       │
-├──────────┼────────────────────┤
-│are       │super fun           │
-├──────────┼────────────────────┤
-│and       │super awesome       │
-└──────────┴────────────────────┘
+
 
 
 
