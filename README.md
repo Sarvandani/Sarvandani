@@ -96,14 +96,16 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <div align="center">
   
 **Languages:**
-#
+
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r&theme=light)](https://skillicons.dev)
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/sql-language.svg' width="50" height="50"> 
 
 </div>
 
 <div align="center">
-
+  
+##
+  
 **Skills:**
 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg' width="50" height="50"> 
@@ -118,6 +120,8 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 </div>
 
 <div align="center">
+  
+##
 
 **Data visualization:**
 
@@ -127,6 +131,7 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/seaborn.svg' width="50" height="50"> 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/plot_ly-icon.svg' width="50" height="50"> 
 
+##
 
 **IDE:**
 
@@ -134,6 +139,8 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
+
+##
 
 **OS:**
 
