@@ -107,8 +107,8 @@ Skills:
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/XGBoost_logo.png' width="100" height="50"> 
 <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/LightGBM.svg' width="100" height="50"> 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' width="50" height="50"> 
-<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' width="50" height="50"> 
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Tensorflow.svg' width="50" height="50"> 
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Keras.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="100" height="50"> 
 
