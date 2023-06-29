@@ -183,7 +183,6 @@ I am a data scientist-geoscientist with a great passion for innovative ideas and
   
 </div>
 
-| git status   | git status     | git status    |
 | **OS:**<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Microsoft.svg' width="50" height="50"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/linux.svg' width="50" height="50">     | git diff       | git diff      |
 
 
