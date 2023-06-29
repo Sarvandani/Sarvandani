@@ -90,8 +90,7 @@
  Hello :wave:!
 
 My name is Mohamadhasan Sarvandani.
-
-I am a data scientist-geoscientist with a great passion for innovative ideas and multi-disciplinary solutions.  
+ 
 
 <div align="center">
   
