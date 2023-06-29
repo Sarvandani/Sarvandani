@@ -98,22 +98,7 @@ My name is Mohamadhasan Sarvandani.
   
 ##
 
-**Data visualization:**
-
-
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Matplotlib_icon.svg' width="50" height="50"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="50" height="50"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/seaborn.svg' width="50" height="50"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/plot_ly-icon.svg' width="50" height="50"> 
-
-##
-
-**IDE:**
-
-
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
+**Data visualization:** <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Matplotlib_icon.svg' width="50" height="50"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="50" height="50"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/seaborn.svg' width="50" height="50"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/plot_ly-icon.svg' width="50" height="50"> |**IDE:** <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
 
 ##
 
@@ -159,7 +144,6 @@ My name is Mohamadhasan Sarvandani.
 </div>
 
 
-**IDE:** <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60"> |**IDE:** <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="50" height="50">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="60" height="60">
 
 
 
