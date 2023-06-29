@@ -107,6 +107,12 @@ Skills:
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="50" height="50"> 
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="100" height="50"> 
 
+Data visualization:
+
+<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Matplotlib_icon.svg' width="50" height="50"> 
+
+
+
 IDE:
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg' width="90" height="50">  
