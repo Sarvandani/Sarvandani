@@ -1,8 +1,5 @@
 <div align="center">
 Hello :wave:!
-
-My name is Mohamadhasan Sarvandani.
-
 </div>
 
 ##
