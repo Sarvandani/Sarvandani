@@ -2,7 +2,6 @@
 Hello :wave:!
 </div>
 
-##
   <div align="center">
   
   <img src="AI.jpeg" width="600" height="300">
