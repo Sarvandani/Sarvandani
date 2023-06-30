@@ -20,7 +20,7 @@ Hello :wave:!
    <a href="https://medium.com/@mohamadhasan.sarvandani">
   <img
     alt="Medium"
-    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="80"
   />
 </a>
 
@@ -28,14 +28,14 @@ Hello :wave:!
   <a href="https://scholar.google.com/citations?user=6FDuIJMAAAAJ&hl=en">
   <img
     alt="scholar"
-    src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"
+    src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="80"
   />
 </a>
 
 <a href="https://www.researchgate.net/profile/Mohamadhasan-Sarvandani">
   <img
     alt="Researchgate"
-    src="https://img.shields.io/badge/Researchgate-3DDC84?style=for-the-badge&logo=researchgate&logoColor=white"
+    src="https://img.shields.io/badge/Researchgate-3DDC84?style=for-the-badge&logo=researchgate&logoColor=white" width="80"
   />
 </a>
   
@@ -43,7 +43,7 @@ Hello :wave:!
 <a href="https://www.pinterest.com/Mohamadhasan_Sarvandani/">
   <img
     alt="YouTube"
-    src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=black"
+    src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=black" width="80"
   />
 </a>
 
@@ -52,14 +52,14 @@ Hello :wave:!
 <a href="https://www.youtube.com/@MohamadhasanSarvandani/featured">
   <img
     alt="YouTube"
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black"
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" width="80"
   />
 </a>
 
   <a href="https://twitter.com/M_Sarvandani">
   <img
     alt="twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80"
   />
 </a>
   
@@ -67,7 +67,7 @@ Hello :wave:!
   <a href="https://www.kaggle.com/sarvandani">
   <img
     alt="Kaggle"
-    src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+    src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="80"
   />
 </a>
   
