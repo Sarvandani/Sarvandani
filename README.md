@@ -13,7 +13,7 @@ Hello :wave:!
  <a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" width="30"
   />
 </a>
 
