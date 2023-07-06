@@ -88,9 +88,11 @@ Hello :wave:!
 | --------------- | --------------- |
 | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Matplotlib_icon.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/bokeh.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/seaborn.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/plot_ly-icon.svg' width="30" height="30"> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/NumPy.svg' width="80" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Pandas.svg' width="80" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/SCIPY.svg' width="30" height="30"> <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="30" height="30">|
 
+
 | **Computer vision:** | 
 | --------------- | 
 | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30">| 
+
 
 | **IDE:** | **OS:** | 
 | --------------- | --------------- |
