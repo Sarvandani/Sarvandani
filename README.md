@@ -97,8 +97,7 @@ Hello :wave:!
 
 | **Data science Platfrom and teamwork:** | 
 | --------------- | 
-|<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Git.svg' width="40" height="40"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="40" height="40">| 
+|<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Git.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="40" height="40">| 
   
 
 
