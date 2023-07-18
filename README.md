@@ -96,7 +96,7 @@ Hello :wave:!
 | <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | 
 
 | **Data science Platfrom and teamwork:** | 
-| --------------- | 
+| ----------------------------------------- | 
 | <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Git.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="55" height="55"> </p>| 
   
 
