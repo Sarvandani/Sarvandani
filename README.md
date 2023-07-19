@@ -103,7 +103,7 @@ Hello :wave:!
 
 | **IDE:** | **OS:** | 
 | --------------- | --------------- |
-| <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Google_Colaboratory.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="40" height="40">|<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Microsoft.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/linux.svg' width="30" height="30">|
+| <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Google_Colaboratory.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/ibm-watson-80.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="40" height="40">|<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Microsoft.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/linux.svg' width="30" height="30">|
 
 
   </div>
