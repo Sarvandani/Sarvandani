@@ -118,7 +118,7 @@ Hello :wave:!
 
 [![Sarvandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&theme=radical) (https://github.com/Sarvandani)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true&theme=radical)
 
   
   
