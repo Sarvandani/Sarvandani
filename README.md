@@ -76,7 +76,7 @@
   
 | **Computer vision:** | **NLP:** | 
 | --------------- | --------------- |
-| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30"> | 
+| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/hugging_face.svg' width="30" height="30"> | 
 
 
 | **Data science Platfrom and teamwork:** | 
