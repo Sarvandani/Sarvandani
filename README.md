@@ -1,22 +1,4 @@
-<div align="center">
-Hello :wave:!
-</div>
-
-  <div align="center">
-  
-  <img src="AI.jpeg" width="600" height="300">
-  
-  </div>
- 
-<div align="center">
-  
- <a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
-  />
-</a>
-
+@  
    <a href="https://medium.com/@mohamadhasan.sarvandani">
   <img
     alt="Medium"
@@ -93,8 +75,7 @@ Hello :wave:!
   
 | **Computer vision:** | **NLP:** | 
 | --------------- | --------------- |
-| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30"> | 
+| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30"> | 
 
 
 | **Data science Platfrom and teamwork:** | 
