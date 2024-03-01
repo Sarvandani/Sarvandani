@@ -90,8 +90,8 @@
 | **Database:** | 
 | ----------------------------------------- | 
 |<p align="center"> 
-SQL: <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40"> <img
-src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40">
+SQL: <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40"> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40">
 NOSQL <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="55" height="55"> 
 SQL <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="80" height="30"> </p>|
 
