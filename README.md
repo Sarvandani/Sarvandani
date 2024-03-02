@@ -82,6 +82,9 @@
 | --------------- | --------------- |
 | <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> </p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/nltk.png' width="40" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/hugging_face.svg' width="70" height="60"> | 
 
+| **CI/CD:** | **Data Platfrom and cloud:** | 
+| --------------- | --------------- |
+| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Git.svg' width="40" height="40"> </p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="55" height="55"> <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="80" height="30"> | 
 
 | **Data science Platfrom and teamwork:** | 
 | ----------------------------------------- | 
