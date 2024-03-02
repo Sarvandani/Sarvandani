@@ -90,10 +90,10 @@
 | **Database:** | 
 | ----------------------------------------- | 
 |<p align="center"> SQL: <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/postgresql-ar21.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/sqlite-ar21.svg' width="40" height="40">
-NoSQL (document) <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/mongodb-ar21.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchbase.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchdb.svg' width="40" height="40">
-NoSQL (columnar) <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/cassandra.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/scylladb.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/HBase.svg' width="70" height="70" >
-NoSQL (Time serie) <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Influxdb.svg' width="80" height="80">
-NoSQL (k-value) <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/redis.svg' width="60" height="60"> </p>|
+NoSQL (document): <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/mongodb-ar21.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchbase.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchdb.svg' width="40" height="40">
+NoSQL (columnar): <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/cassandra.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/scylladb.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/HBase.svg' width="80" height="80" >
+NoSQL (Time serie): <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Influxdb.svg' width="80" height="80">
+NoSQL (k-value): <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/redis.svg' width="60" height="60"> </p>|
 
 
 | **IDE:** | **OS:** | 
