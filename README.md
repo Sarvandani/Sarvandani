@@ -8,12 +8,7 @@
 </a>
 
   
-  <a href="https://scholar.google.com/citations?user=6FDuIJMAAAAJ&hl=en">
-  <img
-    alt="scholar"
-    src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" 
-  />
-</a>
+ 
 
 <a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
   <img
