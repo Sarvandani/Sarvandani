@@ -3,7 +3,7 @@
    <a href="https://medium.com/@mohamadhasan.sarvandani">
        <img
  alt="Medium"
-    src="https://simpleicons.org/?modal=icon&q=x" 
+    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" 
       />
 </a>
 
