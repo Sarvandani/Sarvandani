@@ -70,9 +70,8 @@
                                                                                                                                                                                                                                                                                                                                                             
 | **Computer vision:** | **NLP:** | 
 | --------------- | --------------- |
-| <p align="center"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> 
-<img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> 
-</p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/nltk.png' width="40" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/hugging_face.svg' width="70" height="60"> | 
+|  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/OpenCV.svg' width="30" height="30"> <img src='https://https://github.com/Sarvandani/Data_science_logos/blob/main/detecron.png' width="70" height="60">
+| <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/nltk.png' width="40" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/hugging_face.svg' width="70" height="60"> | 
 
 | **CI/CD:** | **Data Platfrom and cloud:** | 
 | --------------- | --------------- |
