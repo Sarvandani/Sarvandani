@@ -75,18 +75,6 @@
 
 
 
-
-
-| **MLOps** | **CI/CD** | **Data Platform and Cloud** |
-|----------|-----------|-----------------------------|
-| <p align="center"><img src='https://github.com/Sarvandani/Data_science_logos/blob/main/MLflow.svg' width="50" height="50"></p> | <p align="center"><img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Git.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/GitHubActions.svg' width="40" height="40"></p> | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/dataiku.svg' width="55" height="55"> <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' width="80" height="30"> |
-
-  
-| **Database:** | 
-| ----------------------------------------- | 
-|<p align="center"> <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/postgresql-ar21.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/sqlite-ar21.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/mongodb-ar21.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchbase.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/couchdb.svg' width="40" height="40"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/cassandra.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/scylladb.svg' width="55" height="55"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/HBase.svg' width="80" height="80" > <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Influxdb.svg' width="80" height="80"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/redis.svg' width="60" height="60"> </p>|
-
-
 | **IDE:** | **OS:** | 
 | --------------- | --------------- |
 | <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/spyder.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Google_Colaboratory.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Jupyter_logo.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/ibm-watson-80.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg' width="40" height="40">|<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg' width="30" height="30">  <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/Microsoft.svg' width="30" height="30"> <img src='https://github.com/Sarvandani/Data_science_logos/blob/main/linux.svg' width="30" height="30">|
