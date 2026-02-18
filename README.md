@@ -57,10 +57,10 @@
 
 <div align="center">
   
-  
-| **Languages** | **Machine Learning / Deep Learning** |
+| **Languages** | **Machine learning, Deep learning** |
 |--------------|-------------------------------------|
-| <img src="https://skillicons.dev/icons?i=py&theme=light" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/JavaScript.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/HTML5.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/matlab.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/r.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/shell.svg" height="30"/> | <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg" height="40"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Tensorflow.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Keras.svg" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/PyTorch.svg" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=py&theme=light" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/JavaScript.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/HTML5.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/matlab.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/r.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/shell.svg" width="40" height="40"/> | <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg" width="50" height="50"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Tensorflow.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Keras.svg" width="30" height="30"/> <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/PyTorch.svg" width="80" height="40"/> |
+
 
 
 
