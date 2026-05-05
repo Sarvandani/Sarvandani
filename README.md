@@ -10,7 +10,7 @@
   
  
 
-<a href="https://www.linkedin.com/in/mohamadhasan-sarvandani/">
+<a href="https://www.linkedin.com/in/sarvandani/">
   <img
     alt="linkedin"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -25,7 +25,7 @@
 </a>
   
 
-<a href="https://www.pinterest.com/Mohamadhasan_Sarvandani/">
+<a href="https://www.pinterest.com/Sarvandani/">
   <img
     alt="YouTube"
     src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=black" 
@@ -34,7 +34,7 @@
 
 
 
-<a href="https://www.youtube.com/@MohamadhasanSarvandani/featured">
+<a href="https://www.youtube.com/@Sarvandani/featured">
   <img
     alt="YouTube"
     src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" 
