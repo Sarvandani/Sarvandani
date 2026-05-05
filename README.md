@@ -25,7 +25,7 @@
 </a>
   
 
-<a href="https://www.pinterest.com/Sarvandani/">
+<a href="https://www.pinterest.com/Sarvandanii/">
   <img
     alt="YouTube"
     src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=black" 
